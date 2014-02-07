@@ -1,0 +1,11 @@
+android-mwapi
+=============
+
+An android library containing the java implementation of MediaWiki api.
+
+1. Visit the link for Java MediaWiki implementation
+https://github.com/yuvipanda/java-mwapi
+
+2. For more information on the MediaWiki Api visit
+https://www.mediawiki.org/wiki/API:Main_page
+
